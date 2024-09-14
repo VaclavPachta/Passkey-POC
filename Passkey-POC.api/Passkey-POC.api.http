@@ -1,0 +1,6 @@
+@Passkey_POC.api_HostAddress = http://localhost:5198
+
+GET {{Passkey_POC.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
